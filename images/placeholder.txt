@@ -1,0 +1,7 @@
+Repository
+│
+├── index.html
+│
+└── images
+    ├── afra.png
+    └── qrcodino-logo.png
